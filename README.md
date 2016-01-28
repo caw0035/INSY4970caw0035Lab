@@ -1,3 +1,3 @@
 # INSY4970Lab
 username: caw0035<br>
-This is the lab readme
+This is the readme file for insy4970lab1
